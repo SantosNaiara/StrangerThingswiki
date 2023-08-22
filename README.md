@@ -1,2 +1,2 @@
 # StrangerThingswiki
-meu site de stranger things
+meu site de Stranger Things
